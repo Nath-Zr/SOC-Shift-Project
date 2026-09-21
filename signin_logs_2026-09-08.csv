@@ -1,0 +1,33 @@
+TimeGenerated,UserPrincipalName,UserDisplayName,AppDisplayName,IPAddress,Location,ResultType,ResultDescription,ClientAppUsed,ConditionalAccessStatus,RiskLevelDuringSignIn,RiskLevelAggregated
+2026-09-08T06:04:40.746418Z,john.doe@contoso.com,John Doe,Workday,216.205.10.74,"Tokyo, JP",0,Success,Browser,notApplied,none,none
+2026-09-08T06:18:00.464626Z,contractor@partner.com,External Contractor,Outlook Web App,198.51.100.148,"Pyongyang, KP",0,Success,POP3,success,medium,medium
+2026-09-08T06:19:06.353890Z,svc-backup@contoso.com,Backup Service,Outlook Web App,70.143.71.233,"New York, US",50053,Account is locked,Exchange ActiveSync,notApplied,none,low
+2026-09-08T06:21:27.239880Z,guest_user@external.com,Guest User,ServiceNow,198.51.100.91,"Pyongyang, KP",0,Success,IMAP4,success,medium,high
+2026-09-08T07:02:35.757570Z,admin@contoso.com,Admin Account,GitHub Enterprise,198.51.100.98,"Beijing, CN",0,Success,MAPI Over HTTP,notApplied,high,medium
+2026-09-08T07:06:46.620434Z,john.doe@contoso.com,John Doe,SharePoint Online,198.51.100.103,"Pyongyang, KP",0,Success,IMAP4,success,high,medium
+2026-09-08T07:09:38.147479Z,helpdesk@contoso.com,Help Desk,SharePoint Online,192.0.2.118,"Moscow, RU",0,Success,Mobile Apps and Desktop clients,success,medium,high
+2026-09-08T07:51:56.714392Z,contractor@partner.com,External Contractor,GitHub Enterprise,203.75.32.207,"Berlin, DE",50126,Invalid username or password,Exchange ActiveSync,notApplied,low,low
+2026-09-08T08:23:09.786510Z,svc-backup@contoso.com,Backup Service,Microsoft Teams,208.244.25.77,"Bangalore, IN",0,Success,MAPI Over HTTP,success,none,none
+2026-09-08T08:37:25.160512Z,jane.smith@contoso.com,Jane Smith,Microsoft Teams,192.0.2.109,"Moscow, RU",0,Success,IMAP4,notApplied,medium,high
+2026-09-08T08:38:43.034872Z,guest_user@external.com,Guest User,GitHub Enterprise,65.178.195.236,"Berlin, DE",53003,Access blocked by Conditional Access,POP3,failure,none,none
+2026-09-08T08:40:42.703888Z,contractor@partner.com,External Contractor,Outlook Web App,203.0.113.76,"Tehran, IR",0,Success,Browser,notApplied,high,medium
+2026-09-08T09:02:11.000000Z,j.rivera@lab.local,J Rivera,Microsoft 365,82.132.45.201,"London, GB",0,Success,Browser,success,none,none
+2026-09-08T09:18:01.266554Z,ceo@contoso.com,Chief Executive Officer,GitHub Enterprise,203.0.113.223,"Tehran, IR",0,Success,Exchange ActiveSync,success,high,medium
+2026-09-08T09:41:47.000000Z,j.rivera@lab.local,J Rivera,Microsoft 365,197.210.78.14,"Lagos, NG",0,Success,Other clients,notApplied,medium,medium
+2026-09-08T10:02:20.884349Z,admin@contoso.com,Admin Account,GitHub Enterprise,203.0.113.154,"Tehran, IR",50074,Strong authentication is required,Browser,notApplied,high,high
+2026-09-08T10:04:58.822314Z,jane.smith@contoso.com,Jane Smith,Power BI,203.0.113.15,"Pyongyang, KP",50126,Invalid username or password,Browser,notApplied,medium,medium
+2026-09-08T11:03:47.022610Z,guest_user@external.com,Guest User,Microsoft 365,203.0.113.33,"Tehran, IR",0,Success,IMAP4,notApplied,high,medium
+2026-09-08T12:03:51.348446Z,test.user@contoso.com,Test User,Azure CLI,221.108.180.212,"London, GB",50074,Strong authentication is required,POP3,notApplied,medium,none
+2026-09-08T12:32:21.471962Z,ceo@contoso.com,Chief Executive Officer,Azure CLI,198.51.100.231,"Moscow, RU",0,Success,Mobile Apps and Desktop clients,success,high,medium
+2026-09-08T13:04:16.277543Z,jane.smith@contoso.com,Jane Smith,Power BI,122.57.188.12,"Seattle, US",0,Success,IMAP4,success,none,none
+2026-09-08T13:14:40.964555Z,svc-backup@contoso.com,Backup Service,Azure Portal,42.55.219.177,"New York, US",50126,Invalid username or password,Browser,notApplied,none,none
+2026-09-08T13:40:23.237693Z,john.doe@contoso.com,John Doe,Power BI,216.228.82.113,"New York, US",0,Success,POP3,notApplied,none,none
+2026-09-08T13:47:55.007712Z,guest_user@external.com,Guest User,SharePoint Online,85.138.195.222,"Bangalore, IN",0,Success,Mobile Apps and Desktop clients,notApplied,none,none
+2026-09-08T14:07:13.417857Z,guest_user@external.com,Guest User,Azure CLI,70.48.153.229,"London, GB",0,Success,Exchange ActiveSync,notApplied,none,none
+2026-09-08T14:22:39.621863Z,developer@contoso.com,Developer Account,Azure CLI,164.59.122.58,"Tokyo, JP",50053,Account is locked,Browser,notApplied,none,none
+2026-09-08T14:50:15.556452Z,developer@contoso.com,Developer Account,Workday,39.253.38.222,"Toronto, CA",50126,Invalid username or password,Mobile Apps and Desktop clients,notApplied,none,none
+2026-09-08T15:40:11.391679Z,svc-backup@contoso.com,Backup Service,GitHub Enterprise,146.195.110.208,"Tokyo, JP",0,Success,Exchange ActiveSync,success,none,none
+2026-09-08T15:42:47.395728Z,guest_user@external.com,Guest User,SharePoint Online,198.51.100.207,"Pyongyang, KP",50074,Strong authentication is required,POP3,notApplied,medium,medium
+2026-09-08T16:10:11.756626Z,contractor@partner.com,External Contractor,Azure Portal,206.228.160.231,"New York, US",50074,Strong authentication is required,Other clients,notApplied,none,none
+2026-09-08T16:42:22.157325Z,guest_user@external.com,Guest User,Visual Studio Code,210.57.203.186,"London, GB",50053,Account is locked,Other clients,notApplied,none,none
+2026-09-08T17:29:11.604719Z,john.doe@contoso.com,John Doe,Azure CLI,50.133.85.19,"Berlin, DE",50074,Strong authentication is required,Other clients,notApplied,low,low
